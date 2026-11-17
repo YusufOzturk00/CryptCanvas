@@ -1,5 +1,3 @@
-#  CryptCanvas v1.0
-
 # CryptCanvas v1.0
 
 > **AI-Powered Secret Messaging App** — Hide secret messages beneath art.
@@ -589,8 +587,6 @@ in the Software without restriction...
 - **[PyCryptodome](https://pycryptodome.readthedocs.io/)** — Güçlü kriptografi kütüphanesi
 - **[Pillow](https://pillow.readthedocs.io/)** — Görsel işleme
 - **[Streamlit](https://streamlit.io/)** — Harika web arayüz framework'ü
-
----
 ---
 
 <div align="center">

@@ -287,12 +287,6 @@ in the Software without restriction...
 - **[Streamlit](https://streamlit.io/)** — Harika web arayüz framework'ü
 
 ---
-
-## 📞 İletişim & Destek
-
-- **Issues**: [GitHub Issues](https://github.com/<kullanici>/CryptCanvas/issues) — Hata raporları, öneriler
-- **Discussions**: [GitHub Discussions](https://github.com/<kullanici>/CryptCanvas/discussions) — Sorular, fikirler
-
 ---
 
 <div align="center">

@@ -1,0 +1,17 @@
+# CryptCanvas v1.0 - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Cryptography
+pycryptodome>=3.19.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Optional: Type hints support (Python 3.8+)
+# typing-extensions>=4.5.0
